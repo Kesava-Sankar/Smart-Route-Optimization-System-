@@ -1,1 +1,1 @@
-# Smart-Route-Optimization-System-
+This project uses Dijkstra’s Algorithm (Greedy Approach) to optimize route selection in a weighted network. It computes the shortest path between a source and destination city and includes path reconstruction to display the actual route taken. The system simulates real-world navigation and transportation networks, ensuring efficient and optimal path planning.
